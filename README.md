@@ -4,7 +4,7 @@ Please read 'Readme' before proceeding.
 For each amazon Product, please change the Xpath for the price.... It is dynamic for each type of Products.
 
 Changes Made:-
-1. Removed Thread.sleep
+1. Removed Time intervals.
 
 ==================================================================
 Scope for Future Releases:-
@@ -20,4 +20,8 @@ APIs used:-
 
 ==================================================================
 This project is made entirely for educational use.
+Note:-
 If any copyright infringment is done, please let use know- we will make necessary changes.
+
+
+~ ViridianTooth34
