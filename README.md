@@ -7,7 +7,7 @@ Import this project in Eclipse IDE as a Maven project.
 
 For each amazon Product, please change the Xpath for the price.... It is dynamic for each type of Products.
 
-Please enter your Email credentials in the Property filr in the following path:-
+Please enter your Email credentials in the Property file in the following path:-
 
 \AmazonPrice_Proj1\PropertyFile
 
