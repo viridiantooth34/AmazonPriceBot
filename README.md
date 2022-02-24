@@ -3,6 +3,7 @@ Please read 'Readme' before proceeding.
 
 ![](https://avatars.githubusercontent.com/u/40498622?v=4)
 
+Import this project in Eclipse IDE as a Maven project.
 
 For each amazon Product, please change the Xpath for the price.... It is dynamic for each type of Products.
 
