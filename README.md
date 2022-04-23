@@ -25,6 +25,7 @@ Proper dynamic Xpath for the Product Price.
 Better Email Report with a screenshot of the product page.
 Migration to TestNG.
 Better UI.
+Tool ignores the value of the price after decimal.
 
 **================================================================== **
 
