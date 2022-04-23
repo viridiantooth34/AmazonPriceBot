@@ -38,4 +38,6 @@ Apache Commons Email
 
 This project is made entirely for educational use. Note:- If any copyright infringement is done, please let us know- we will make necessary changes.
 
+Email id: rick.bakshi@live.com
+
 ~ ViridianTooth34
