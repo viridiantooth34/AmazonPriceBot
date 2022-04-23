@@ -17,13 +17,13 @@ Please enter your Email credentials in the Property file in the following path:-
 
 Removed Time intervals.
 Added Property File for Security purpose.
+Proper dynamic Xpath for the Product Price.
 **================================================================== **
 
 **Scope for Future Releases:-**
 
 Better Email Report with a screenshot of the product page.
-Work on proper dynamic Xpath for the Product Price.//in progress
-Migration to TestNG and usage of Property files for proper portability.
+Migration to TestNG.
 Better UI.
 
 **================================================================== **
