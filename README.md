@@ -23,6 +23,7 @@ Proper dynamic Xpath for the Product Price.
 **Scope for Future Releases:-**
 IDE Independent.
 Better Email Report with a screenshot of the product page.
+Migration to Page Object Model.
 Migration to TestNG.
 Better UI (Java Swing).
 Tool ignores the value of the price after decimal.
